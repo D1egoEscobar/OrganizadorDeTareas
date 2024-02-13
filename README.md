@@ -1,6 +1,6 @@
 Organizador de tareas 
 
-Java
+Java - NetBeans
 
 Integrantes:
 
