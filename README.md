@@ -2,6 +2,6 @@ Organizador de tareas
 
 Java - NetBeans
 
-Integrantes:
+Realizado por:
 
 Diego Escobar Enriquez
